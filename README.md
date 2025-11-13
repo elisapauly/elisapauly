@@ -3,9 +3,6 @@
 <p align="center">
   Hi there! I’m <b>Elisa</b> 💻✨  
 </p>
-
-🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷
-
 <p>
   I’m an <b>architecture student</b> and a <b>beginner in software development</b>,  
   exploring how creativity and technology can come together in beautiful ways 💡🏗️  
@@ -13,11 +10,11 @@
 
 <p>
   I currently work at <b>Bosch</b>, in <b>Joinville, Brazil</b> 🇧🇷  
-  I’m passionate about <b>web design</b> and love creating aesthetic, functional interfaces 🎨💖  
+  I’m passionate about <b>web design</b> and love creating aesthetic, functional interfaces 🎨💖 
 </p>
 
 <p>
-  I’m still learning — but I’m enjoying every step of the journey! 🌱  
+  I’m still learning, but I’m enjoying every step of the journey! 
   Thanks for visiting my little corner of the internet, and I hope you like my projects! 🌸💫  
 </p>
 
@@ -43,10 +40,6 @@
 </p>
 
 🌼･ﾟ🌙:｡. .｡:🌸･ﾟ🌙:｡. .｡:🌼･ﾟ🌙
-
-<p>
-  ✨ <i>“Design is intelligence made visible.”</i> — Alina Wheeler ✨  
-</p>
 
 <p>
   🌈 Thank you for visiting — feel free to connect or explore my work! 💌  
