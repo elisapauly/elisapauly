@@ -1,8 +1,8 @@
 <h1 align="center">🌸 Hello! Welcome to my GitHub profile! 🌸</h1>
 
-<p align="center">
+<h1 align="center">
   Hi there! I’m <b>Elisa</b> 💻✨  
-</p>
+</h1>
 <p>
   I’m an <b>architecture student</b> and a <b>beginner in software development</b>,  
   exploring how creativity and technology can come together in beautiful ways 
