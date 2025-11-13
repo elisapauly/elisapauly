@@ -1,39 +1,58 @@
-# 🌸 Hello! Welcome to my GitHub profile! 🌸
+<h1 align="center">🌸 Hello! Welcome to my GitHub profile! 🌸</h1>
 
-Hi there! I’m **Elisa** 💻✨  
-
-I’m an **architecture student** and a **beginner in software development**, discovering how creativity and technology can come together 💡🏗️  
-
-Currently, I work at **Bosch**, in **Joinville, Brazil** 🇧🇷  
-I absolutely **love web design** and everything related to beautiful, functional interfaces 🎨💖  
-
-I’m still learning — but I’m having lots of fun along the way! 🌱  
-Thanks for stopping by, and I hope you enjoy my projects! 🌷💫  
-
----
-
-## Ferramentas e Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/ />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"  width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"  width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original-wordmark.svg" width="40" height="40"/>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"  width="40" height="40"/>
-       
+<p align="center">
+  Hi there! I’m <b>Elisa</b> 💻✨  
 </p>
 
----
-✨ *“Design is intelligence made visible.”* — Alina Wheeler
+🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷
+
+<p align="center">
+  I’m an <b>architecture student</b> and a <b>beginner in software development</b>,  
+  exploring how creativity and technology can come together in beautiful ways 💡🏗️  
+</p>
+
+<p align="center">
+  I currently work at <b>Bosch</b>, in <b>Joinville, Brazil</b> 🇧🇷  
+  I’m passionate about <b>web design</b> and love creating aesthetic, functional interfaces 🎨💖  
+</p>
+
+<p align="center">
+  I’m still learning — but I’m enjoying every step of the journey! 🌱  
+  Thanks for visiting my little corner of the internet, and I hope you like my projects! 🌸💫  
+</p>
+
+🌸･ﾟ✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧🌸
+
+##  Tools & Technologies
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original-wordmark.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>
+</p>
+
+🌼･ﾟ🌙:｡. .｡:🌸･ﾟ🌙:｡. .｡:🌼･ﾟ🌙
+
+<p align="center">
+  ✨ <i>“Design is intelligence made visible.”</i> — Alina Wheeler ✨  
+</p>
+
+<p align="center">
+  🌈 Thank you for visiting — feel free to connect or explore my work! 💌  
+</p>
+
+🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷
 
           
 
