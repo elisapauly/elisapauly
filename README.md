@@ -18,8 +18,6 @@
   Thanks for visiting my little corner of the internet, and I hope you like my projects! 🌸💫  
 </p>
 
-🌸･ﾟ✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧*:･ﾟ✧🌸
-
 ##  Tools & Technologies
 
 <p>
@@ -39,13 +37,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="45" height="45"/>
 </p>
 
-🌼･ﾟ🌙:｡. .｡:🌸･ﾟ🌙:｡. .｡:🌼･ﾟ🌙
-
 <p>
   🌈 Thank you for visiting — feel free to connect or explore my work! 💌  
 </p>
 
-🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷･ﾟ☁️:｡. .｡:☁️･ﾟ🌷
 
           
 
