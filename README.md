@@ -1,4 +1,4 @@
-##🌸 Hello! Welcome to my GitHub profile! 🌸
+🌸 Hello! Welcome to my GitHub profile! 🌸
 
 Hi there! I’m Elisa 💻✨
 
@@ -12,3 +12,5 @@ Thanks for stopping by, and I hope you enjoy my projects! 🌷💫
 
 ## Ferramentas e Tecnologias
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+
