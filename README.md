@@ -1,4 +1,5 @@
-🌸 Hello! Welcome to my GitHub profile! 🌸
+#🌸 Hello! Welcome to my GitHub profile! 🌸
+
 Hi there! I’m Elisa 💻✨
 
 I’m an architecture student and a beginner in software development, discovering how creativity and technology can come together 💡🏗️
