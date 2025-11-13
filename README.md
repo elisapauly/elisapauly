@@ -5,17 +5,15 @@
 </p>
 <p>
   I’m an <b>architecture student</b> and a <b>beginner in software development</b>,  
-  exploring how creativity and technology can come together in beautiful ways 💡🏗️  
-</p>
+  exploring how creativity and technology can come together in beautiful ways 
 
-<p>
   I currently work at <b>Bosch</b>, in <b>Joinville, Brazil</b> 🇧🇷  
   I’m passionate about <b>web design</b> and love creating aesthetic, functional interfaces 🎨💖 
-</p>
 
-<p>
-  I’m still learning, but I’m enjoying every step of the journey! 
+   I’m still learning, but I’m enjoying every step of the journey! 
   Thanks for visiting my little corner of the internet, and I hope you like my projects! 🌸💫  
+</p>
+ 
 </p>
 
 ##  Tools & Technologies
