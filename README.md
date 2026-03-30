@@ -3,5 +3,5 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg" /> width="45" height="45"/>  
           
